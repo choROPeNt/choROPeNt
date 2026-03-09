@@ -79,3 +79,7 @@ Christian Düreth
 [![Email](https://img.shields.io/badge/Contact-Email-555555?logo=minutemailer&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
 
 [![Email](https://img.shields.io/badge/Email-TU_Dresden-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
+
+[![Email](https://img.shields.io/badge/Email-christian.duereth%40tu--dresden.de-black?logo=gmail&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
+
+
