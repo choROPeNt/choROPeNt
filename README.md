@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Christian
-
 **Researcher at TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)**  
 
 Composite Materials | Machine Learning | 3D-Segementation | Microstructure Modeling
