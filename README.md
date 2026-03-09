@@ -20,6 +20,8 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 - **Microstructure analysis** of textile-reinforced composites  
 - **Machine learning for materials science**
 - **Fiber orientation estimation** in CT data
+- **CNN-based prediction of structure tensor fields** from volumetric data
+- **Bayesian optimization and Gaussian process regression** for materials design
 - **Spectral methods (FFT)** for homogenization and fracture
 - **Generative models** for textile architecture generation
 
@@ -29,8 +31,9 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 
 - Diffusion models for **realistic textile microstructure generation**
 - **VAE-guided generative modeling** of composite architectures
+- **Bayesian optimization with Gaussian processes** for microstructure-property exploration
+- **CNN-based structure tensor prediction** for orientation estimation in low-resolution CT scans
 - **Crack detection and tracking** using deep learning
-- **Structure tensor analysis** for fiber orientation fields
 - Multiscale modeling of **damage and fracture in composites**
 
 ---
