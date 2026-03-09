@@ -43,8 +43,8 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 | Project | Description |
 |------|-------------|
 | [![GitHub](https://img.shields.io/badge/GitHub-FFTjax-181717?logo=github&logoColor=white)](https://github.com/choROPeNt/FFTjax) | FFT-based spectral solvers for mechanics and materials modeling implemented in JAX |
-| [![GitHub](https://img.shields.io/badge/GitHub-FFTjax-181717?logo=github&logoColor=white)](https://github.com/choROPeNt/FFTjax)| PyTorch-based utilities for 3D segmentation of volumetric datasets |
-| [![GitHub](https://img.shields.io/badge/GitHub-FFTjax-181717?logo=github&logoColor=white)](https://github.com/choROPeNt/FFTjax)| Diffusion models for generating realistic textile architectures and microstructure fields |
+| [![GitHub](https://img.shields.io/badge/GitHub-3Dseg-181717?logo=github&logoColor=white)](https://github.com/choROPeNt/3dseg)| PyTorch-based utilities for 3D segmentation of volumetric datasets |
+| [![GitHub](https://img.shields.io/badge/GitHub-improved-diffusion-181717?logo=github&logoColor=white)](https://github.com/choROPeNt/improved-diffusion)| Diffusion models for generating realistic textile architectures and microstructure fields |
 
 ---
 
