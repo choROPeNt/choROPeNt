@@ -4,11 +4,9 @@
 
 **Researcher at TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)**  
 
-Composite Materials | Machine Learning | 3d-Segementation | Microstructure Modeling
+Composite Materials | Machine Learning | 3D-Segementation | Microstructure Modeling
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-XLA%20Accelerated-F8A000)
+
 ![Field](https://img.shields.io/badge/Field-Composite%20Materials-2E8B57)
 
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6817-1020)
@@ -52,7 +50,9 @@ Composite Materials | Machine Learning | 3d-Segementation | Microstructure Model
 
 **Languages**
 
-Python | JAX | PyTorch | NumPy
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-XLA%20Accelerated-F8A000)
 
 **Scientific Computing**
 
@@ -61,18 +61,6 @@ Semantic Segemetnation | DDPM | FFT methods | Spectral solvers | Phase-field fra
 **Tools**
 
 ParaView • Blender • LaTeX • Git • HPC clusters
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=choROPeNt&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choROPeNt&layout=compact)
-
-</div>
 
 ---
 
