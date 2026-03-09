@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Christian Düreth 👋
+# Hi, I'm Christian
 
 **Researcher at TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)**  
 
