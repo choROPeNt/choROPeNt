@@ -10,6 +10,25 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=toF-5J0AAAAJ&hl=de)
 
 </div>
+---
+
+## 🌍 Research Vision
+
+My research focuses on **linking microstructure, physics, and machine learning** to better understand and design **advanced composite materials**.
+
+Key goal:
+
+> **Learning the structure–property relationships of complex materials directly from volumetric data.**
+
+This involves combining:
+
+- **3D imaging (µCT)**
+- **machine learning**
+- **spectral mechanics solvers**
+- **generative models**
+
+to build **data-driven digital representations of composite microstructures.**
+
 
 ---
 
@@ -61,6 +80,15 @@ Semantic Segmentation | DDPM | FFT methods | Spectral solvers | Phase-field frac
 **Tools**
 
 ParaView • Blender • LaTeX • Git • HPC clusters
+
+---
+
+## ⚡ Outside Research
+
+- 🏔️ Hiking and exploring mountains  
+- 📷 Photography and imaging  
+- 🧠 Building scientific open-source tools  
+- ✈️ Traveling and discovering new cultures
 
 ---
 
