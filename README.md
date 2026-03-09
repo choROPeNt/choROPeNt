@@ -19,8 +19,7 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 
 - **Microstructure analysis** of textile-reinforced composites  
 - **Machine learning for materials science**
-- **Fiber orientation estimation** in CT data
-- **CNN-based prediction of structure tensor fields** from volumetric data
+- **CNN/Attention-based prediction of Fiber orientation** from volumetric data
 - **Bayesian optimization and Gaussian process regression** for materials design
 - **Spectral methods (FFT)** for homogenization and fracture
 - **Generative models** for textile architecture generation
