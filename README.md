@@ -58,7 +58,7 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 
 **Scientific Computing**
 
-Semantic Segemetnation | DDPM | FFT methods | Spectral solvers | Phase-field fracture | HPC
+Semantic Segmentation | DDPM | FFT methods | Spectral solvers | Phase-field fracture | HPC
 
 **Tools**
 
