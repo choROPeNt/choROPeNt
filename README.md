@@ -8,7 +8,6 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 
 
 ![Field](https://img.shields.io/badge/Field-Composite%20Materials-2E8B57)
-
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6817-1020)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=toF-5J0AAAAJ&hl=de)
 
