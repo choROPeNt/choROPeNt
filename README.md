@@ -2,6 +2,8 @@
 
 **Researcher at TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)**  
 
+>  *Turning microstructure data into materials science that even machines can understand.*
+
 Composite Materials | Machine Learning | 3D-Segementation | Microstructure Modeling
 
 
