@@ -73,3 +73,9 @@ TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)
 Christian Düreth  
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
+
+[![Email](https://img.shields.io/badge/Email-Christian_D%C3%BCreth-0A66C2?logo=maildotru&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
+
+[![Email](https://img.shields.io/badge/Contact-Email-555555?logo=minutemailer&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
+
+[![Email](https://img.shields.io/badge/Email-TU_Dresden-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
