@@ -62,7 +62,7 @@ Semantic Segmentation | DDPM | FFT methods | Spectral solvers | Phase-field frac
 
 **Tools**
 
-ParaView • Blender • LaTeX • Git • HPC clusters
+ParaView • Plotly • Blender • LaTeX • Git • HPC clusters
 
 ---
 
