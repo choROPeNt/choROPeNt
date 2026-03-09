@@ -40,8 +40,6 @@ Composite Materials | Machine Learning | 3d-Segementation | Microstructure Model
 
 ## 🚀 Selected Projects
 
-## 🚀 Selected Projects
-
 | Project | Description |
 |------|-------------|
 | **[FFTjax](https://github.com/choROPeNt/FFTjax)** | FFT-based spectral solvers for mechanics and materials modeling implemented in JAX |
@@ -82,4 +80,6 @@ ParaView • Blender • LaTeX • Git • HPC clusters
 
 TU Dresden – Institute of Lightweight Engineering and Polymer Technology (ILK)
 
-Christian Düreth
+Christian Düreth  
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:christian.duereth@tu-dresden.de)
