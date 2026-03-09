@@ -70,7 +70,7 @@ ParaView • Blender • LaTeX • Git • HPC clusters
 
 - 🏔️ Hiking and exploring mountains  
 - 📷 Photography and imaging  
-- 🧠 Building scientific open-source tools  
+- 🏀 Sports 
 - ✈️ Traveling and discovering new cultures
 
 ---
