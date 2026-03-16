@@ -24,23 +24,7 @@ Composite Materials | Machine Learning | 3D-Segementation | Microstructure Model
 - **Spectral methods (FFT)** for homogenization and fracture
 - **Generative models** for textile architecture generation
 
----
 
-## 🤔 About the Username
-
-Yes… the username.
-
-Before you ask: **no, it’s not a deep cryptographic reference, a research acronym, or a secret composite-material formula.**
-
-It was **2020, peak Corona lockdown**.  
-I was bored, opened a **random username generator**, pasted my name into it…  
-
-…and **`choROPeNt` was born.**
-
-At this point it has accumulated too many commits to change it, so here we are.
-
-Please direct all questions about fiber orientations, machine learning, or fracture mechanics to me —  
-but **the username is a historical artifact**.
 
 ---
 
@@ -80,6 +64,24 @@ Semantic Segmentation | DDPM | FFT methods | Spectral solvers | Phase-field frac
 **Tools**
 
 ParaView • Plotly • Blender • LaTeX • Git • HPC clusters
+
+---
+
+## 🤔 About the Username
+
+Yes… the username.
+
+Before you ask: **no, it’s not a deep cryptographic reference, a research acronym, or a secret composite-material formula.**
+
+It was **2020, peak Corona lockdown**.  
+I was bored, opened a **random username generator**, pasted my name into it…  
+
+…and **`choROPeNt` was born.**
+
+At this point it has accumulated too many commits to change it, so here we are.
+
+Please direct all questions about fiber orientations, machine learning, or fracture mechanics to me —  
+but **the username is a historical artifact**.
 
 ---
 
